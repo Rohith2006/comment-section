@@ -22,7 +22,7 @@ This project implements a dynamic comments section using React and Redux. Users 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/react-comments-section.git
+   git clone https://github.com/Rohith2006/comment-section.git
    ```
 
 2. Navigate to the project directory:
@@ -69,5 +69,4 @@ src/
 ├── index.js
 └── styles.css
 ```
-
 
