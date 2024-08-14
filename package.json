@@ -14,8 +14,6 @@
     "web-vitals": "^2.1.4"
   },
 
-  "homepage": "https://Rohith2006.github.io/comment-section",
-
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
